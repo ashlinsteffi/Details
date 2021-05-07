@@ -6,6 +6,11 @@ public class EmployeeDetails {
 		System.out.println(s);
 		int a=20;
 		System.out.println(a);
+		float f=1.23f;
+		System.out.println(f);
+
+		
+
 	}
 
 }
