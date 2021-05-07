@@ -12,6 +12,11 @@ public class EmployeeDetails {
 		int b=30;
 		System.out.println(b);
 		System.out.println("LoginPage");
+		System.out.println("Result");
+
+
+
+
 
 		
 	}
