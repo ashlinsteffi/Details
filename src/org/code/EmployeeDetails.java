@@ -6,6 +6,9 @@ public class EmployeeDetails {
 		System.out.println(s);
 		int a=20;
 		System.out.println(a);
+		System.out.println("Login");
+		int b=30;
+		System.out.println(b);
 	}
 
 }
